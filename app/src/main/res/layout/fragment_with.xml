@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.appbusters.robinkamboj.dialogfragment.WithFragment">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:text="@string/show_dialog"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:background="?attr/selectableItemBackground"
+        android:id="@+id/show_dialog"/>
+
+</FrameLayout>

@@ -3,4 +3,7 @@
     <string name="activity_without_fragment">Activity Without Fragment</string>
     <string name="activity_with_fragment">Activity With Fragment</string>
     <string name="show_dialog">SHOW DIALOG</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
